@@ -89,5 +89,7 @@
 			{"game_id":411,"foreign_id":"131","game_code":"0","machine_id":"6","hands":"0","denominations":null,"game_name":"Blackjack + Perfect Pairs"},
 
 			{"game_id":404,"foreign_id":"2","game_code":"1","machine_id":"0","hands":"0","denominations":null,"game_name":"Baccarat"}
+
+			{"game_id":404,"foreign_id":"2","game_code":"1","machine_id":"0","hands":"0","denominations":null,"game_name":"Baccarat"}
 	]
 }
